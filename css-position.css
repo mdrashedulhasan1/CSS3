@@ -1,0 +1,21 @@
+div{
+    height: 300px;
+    width: 300px;
+}
+.first{
+    background-color: tomato;
+}
+.second{
+    background-color: turquoise;
+    /* position: static; */
+    /* position: relative;
+    left: 30px;
+    top: 40px; */
+    /* position: absolute;
+    left: 30px; */
+    position: fixed;
+    
+}
+.third{
+    background-color: violet;
+}
